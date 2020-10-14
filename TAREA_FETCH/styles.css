@@ -1,0 +1,33 @@
+*{
+    background-color: beige;
+}
+
+h1{
+    border: 2px solid slategray;
+    margin: 0.5em;
+    padding: 0.5em;
+    text-align: center;
+}
+
+footer{
+    margin-top: 25px;
+    text-align: right;
+}
+main{
+    padding: 10px;
+}
+
+.respuesta_json{
+    border: red 3px solid;
+    background-color: white;
+}
+
+.respuesta{
+    border: green 3px solid;
+    background-color: white;
+}
+
+.aqui{
+    border: blue 3px solid;
+    background-color: white;
+}
